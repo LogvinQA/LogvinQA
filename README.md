@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/rasullogvin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/rasullogvin"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/pando_s"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/logvinrr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/LogvinQA/qa-portfolio-logvin"><img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=LogvinQA&label=Profile%20views&color=0a84ff&style=flat" />
 </p>
@@ -85,8 +85,8 @@
 ---
 
 ## 📬 Контакты
-- Telegram → [@rasullogvin](https://t.me/rasullogvin)  
-- Instagram → [@rasullogvin](https://instagram.com/rasullogvin)  
+- Telegram → [@pando_s](https://t.me/pando_s)  
+- Instagram → [@logvinrr](https://instagram.com/logvinrr)  
 - GitHub Portfolio → [qa-portfolio-logvin](https://github.com/LogvinQA/qa-portfolio-logvin)
 
 ---
